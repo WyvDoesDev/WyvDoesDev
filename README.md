@@ -46,12 +46,12 @@ Competition Participation
 =========================
 I mostly focus on web and misc challenges in CTFs.
 
-- [The Diana Initiative](https://www.dianainitiative.org/) CTF 2025: Got 2nd place even though I started a few hours late.
 - [Spokane Cyber Cup](https://spokanectf.github.io/) 2026: I was a coach for this one, helped people out when they got stuck on challenges.
+- [The Diana Initiative](https://www.dianainitiative.org/) CTF 2025: Got 2nd place even though I started a few hours late.
 - [Trace Labs](https://www.tracelabs.org/initiatives/search-party) Search Party 2025: OSINT CTF focused on finding missing persons.
+- [BSides Seattle](https://www.bsidesseattle.com/) Attack/Defend CTF 2024: 2nd place. Only lost to a team ranked top 20 globally. Attack/defend format where you're exploiting other teams while defending your own boxes.
 - [Hack-A-Sat 4](https://hackasat.com/) Qualifiers 2023: 20th out of 381 teams. Satellite hacking CTF run by the US Air Force and Space Force. Challenges involve RF, signals, and space systems.
 - [Hack The Box](https://www.hackthebox.com/) Cyber Apocalypse 2023: Top 5%. Mostly did web and misc challenges.
-- [BSides Seattle](https://www.bsidesseattle.com/) Attack/Defend CTF 2024: 2nd place. Only lost to a team ranked top 20 globally. Attack/defend format where you're exploiting other teams while defending your own boxes.
 - **SkillsUSA CyberSecurity**: Qualified for nationals.
 
 Conference Speaking
