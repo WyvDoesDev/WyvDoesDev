@@ -45,7 +45,7 @@ Competition Participation
 =========================
 I mostly focus on web and misc challenges in CTFs.
 
-- [Spokane Cyber Cup](https://spokanectf.github.io/) 2026: I was a coach for this one, helped people out when they got stuck on challenges. Mix of web, forensics, crypto, and trivia.
+- [Spokane Cyber Cup](https://spokanectf.github.io/) 2026: I was a coach for this one, helped people out when they got stuck on challenges.
 - [Trace Labs](https://www.tracelabs.org/initiatives/search-party) Search Party 2025: OSINT CTF focused on finding missing persons.
 - [Hack-A-Sat 4](https://hackasat.com/) Qualifiers 2023: 20th out of 381 teams. Satellite hacking CTF run by the US Air Force and Space Force. Challenges involve RF, signals, and space systems.
 - [Hack The Box](https://www.hackthebox.com/) Cyber Apocalypse 2023: Top 5%. Mostly did web and misc challenges.
