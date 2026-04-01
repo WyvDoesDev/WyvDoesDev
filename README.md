@@ -33,6 +33,7 @@ Security Tools
 - [snoops](https://github.com/WyvDoesDev/snoops): Packet analyzer with a TUI in Go. For when Wireshark is overkill.
 - [stepper](https://github.com/WyvDoesDev/stepper): WIP tool to grab CTF flags from binary registers. C++.
 - [HookTesting](https://github.com/WyvDoesDev/HookTesting): Windows hooking research. Inline hooks and registry hooking in C++.
+- **superblue**: Turning a Spotify CarThing into a handheld Bluetooth hacking tool. WIP.
 - [LeViBot](https://github.com/WyvDoesDev/LeViBot): Bot I wrote in JavaScript.
 - **AvYara**: YARA rule scanner in C++. Scans and classifies files.
 
