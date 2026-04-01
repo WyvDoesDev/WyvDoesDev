@@ -1,6 +1,6 @@
 ![Joey Escamilla](banner.png)
 
-Based in the Seattle area. I build secure software and break insecure software. I write security tools in Go, Python, and C++ and compete in CTFs.
+ Passionate security researcher based in Seattle. I build secure software and break insecure software. I write security tools in Go, Python, and C++ and compete in CTFs.
 
 I'm looking for work! Let's connect on [LinkedIn](https://www.linkedin.com/in/joseph-escamilla-8a0004209/).
 
