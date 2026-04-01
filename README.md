@@ -4,10 +4,6 @@ Based in the Seattle area. I build secure software and break insecure software. 
 
 I'm looking for work! Let's connect on [LinkedIn](https://www.linkedin.com/in/joseph-escamilla-8a0004209/).
 
-About this Page
-===============
-Inspired by [Lacey Kasten](https://github.com/koronkowy)'s GitHub profile. A place to put all the stuff that doesn't fit on a one-page resume.
-
 Languages
 =========
 Go / C++ / JavaScript / Python
