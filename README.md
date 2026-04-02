@@ -16,9 +16,6 @@ Organizations & Events
 - [DC253](https://dc253.org/): I've been going to DC253 since 2024. DEFCON group in Tacoma, WA.
 - [BSides Seattle](https://www.bsidesseattle.com/): Good local cybersecurity conference. I've competed in the Attack/Defend CTF here.
 
-Security Research & Tool Development
-=====================================
-
 Security Tools
 --------------
 - [lazyRecon](https://github.com/WyvDoesDev/lazyRecon): Recon automation tool in Go. Subdomain enumeration, alive checks, technology detection. My go-to for starting bug bounty recon.
