@@ -6,7 +6,7 @@ I'm looking for work! Let's connect on [LinkedIn](https://www.linkedin.com/in/jo
 
 Employment
 ===================================
-- [Tech The Right Way](https://techtrw.com/): Fullstack Engineer (July 2025 - Present). Built a browser-based SIP softphone and operator switchboard using SIP.js, WebRTC, Next.js, and TypeScript. I also do code reviews with Semgrep and built infrastructure automation in Go using the Proxmox API and Ansible. The security side is what I like most here.
+- [Tech The Right Way](https://techtrw.com/): Fullstack Engineer (July 2025 - Present). Built a browser-based SIP softphone and operator switchboard using SIP.js, WebRTC, Next.js, and TypeScript. I also do code reviews with Semgrep and built infrastructure automation in Go using the Proxmox API and Ansible.
 
 Organizations & Events
 ======================
